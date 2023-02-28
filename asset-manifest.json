@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.893ad347.chunk.js": "/sejalnik/am-proj.web.in/static/js/0.893ad347.chunk.js",
+    "static/js/0.893ad347.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/0.893ad347.chunk.js.map",
+    "static/js/1.0922e5ae.chunk.js": "/sejalnik/am-proj.web.in/static/js/1.0922e5ae.chunk.js",
+    "static/js/1.0922e5ae.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/1.0922e5ae.chunk.js.map",
+    "main.css": "/sejalnik/am-proj.web.in/static/css/main.a617e044.chunk.css",
+    "main.js": "/sejalnik/am-proj.web.in/static/js/main.d70edd09.chunk.js",
+    "main.js.map": "/sejalnik/am-proj.web.in/static/js/main.d70edd09.chunk.js.map",
+    "runtime-main.js": "/sejalnik/am-proj.web.in/static/js/runtime-main.c166ad4b.js",
+    "runtime-main.js.map": "/sejalnik/am-proj.web.in/static/js/runtime-main.c166ad4b.js.map",
+    "static/js/4.15ff1d74.chunk.js": "/sejalnik/am-proj.web.in/static/js/4.15ff1d74.chunk.js",
+    "static/js/4.15ff1d74.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/4.15ff1d74.chunk.js.map",
+    "static/js/5.a7345b92.chunk.js": "/sejalnik/am-proj.web.in/static/js/5.a7345b92.chunk.js",
+    "static/js/5.a7345b92.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/5.a7345b92.chunk.js.map",
+    "static/js/6.2b393263.chunk.js": "/sejalnik/am-proj.web.in/static/js/6.2b393263.chunk.js",
+    "static/js/6.2b393263.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/6.2b393263.chunk.js.map",
+    "static/js/7.d21214ba.chunk.js": "/sejalnik/am-proj.web.in/static/js/7.d21214ba.chunk.js",
+    "static/js/7.d21214ba.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/7.d21214ba.chunk.js.map",
+    "static/js/8.851ca1d8.chunk.js": "/sejalnik/am-proj.web.in/static/js/8.851ca1d8.chunk.js",
+    "static/js/8.851ca1d8.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/8.851ca1d8.chunk.js.map",
+    "static/js/9.a3170c9d.chunk.js": "/sejalnik/am-proj.web.in/static/js/9.a3170c9d.chunk.js",
+    "static/js/9.a3170c9d.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/9.a3170c9d.chunk.js.map",
+    "static/js/10.a357366e.chunk.js": "/sejalnik/am-proj.web.in/static/js/10.a357366e.chunk.js",
+    "static/js/10.a357366e.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/10.a357366e.chunk.js.map",
+    "static/js/11.a544e855.chunk.js": "/sejalnik/am-proj.web.in/static/js/11.a544e855.chunk.js",
+    "static/js/11.a544e855.chunk.js.map": "/sejalnik/am-proj.web.in/static/js/11.a544e855.chunk.js.map",
+    "index.html": "/sejalnik/am-proj.web.in/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sejalnik/am-proj.web.in/static/css/main.a617e044.chunk.css.map",
+    "static/js/4.15ff1d74.chunk.js.LICENSE.txt": "/sejalnik/am-proj.web.in/static/js/4.15ff1d74.chunk.js.LICENSE.txt",
+    "static/js/5.a7345b92.chunk.js.LICENSE.txt": "/sejalnik/am-proj.web.in/static/js/5.a7345b92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c166ad4b.js",
+    "static/js/5.a7345b92.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d70edd09.chunk.js"
+  ]
+}
